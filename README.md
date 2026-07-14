@@ -222,10 +222,11 @@
     }
 
     .footer {
-      font-size: 0.85rem;
-      letter-spacing: 2px;
+      font-size: 0.65rem;
+      letter-spacing: 0.5px;
       color: rgba(255, 255, 255, 0.3);
       direction: ltr;
+      padding: 0 16px;
     }
 
     .footer a {
@@ -324,9 +325,7 @@
   </main>
 
   <div class="gap-footer">
-    <footer class="footer">
-      <a href="https://subkazani.ir">subkazani.ir</a>
-    </footer>
+    <footer class="footer">Perhaps the memory of you will never fade from my mind.</footer>
   </div>
 
   <div class="playing-indicator" id="playingIndicator">🎵 در حال پخش...</div>
