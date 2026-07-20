@@ -360,7 +360,7 @@
             </defs>
             <text>
               <textPath href="#circlePath1" startOffset="0%" text-anchor="start">
-                MAYBE IN THE NEXT LIFE &nbsp;•&nbsp; MAYBE IN THE NEXT LIFE &nbsp;•&nbsp; MAYBE IN THE NEXT LIFE &nbsp;•&nbsp;
+                &nbsp;•&nbsp; MAYBE IN THE NEXT LIFE &nbsp;•&nbsp; MAYBE NEVER SEE YOU &nbsp;•&nbsp; MAYBE IN THE NEXT LIFE &nbsp;•&nbsp; MAYBE NEVER SEE YOU &nbsp;•&nbsp; MAYBE IN THE NEXT LIFE &nbsp;•&nbsp; MAYBE NEVER SEE YOU &nbsp;•&nbsp;
               </textPath>
             </text>
           </svg>
@@ -383,7 +383,7 @@
             </defs>
             <text>
               <textPath href="#circlePath2" startOffset="0%" text-anchor="start">
-                MAYBE IN THE NEXT LIFE &nbsp;•&nbsp; MAYBE IN THE NEXT LIFE &nbsp;•&nbsp; MAYBE IN THE NEXT LIFE &nbsp;•&nbsp;
+                &nbsp;•&nbsp; MAYBE IN THE NEXT LIFE &nbsp;•&nbsp; MAYBE NEVER SEE YOU &nbsp;•&nbsp; MAYBE IN THE NEXT LIFE &nbsp;•&nbsp; MAYBE NEVER SEE YOU &nbsp;•&nbsp; MAYBE IN THE NEXT LIFE &nbsp;•&nbsp; MAYBE NEVER SEE YOU &nbsp;•&nbsp;
               </textPath>
             </text>
           </svg>
@@ -406,7 +406,7 @@
             </defs>
             <text>
               <textPath href="#circlePath3" startOffset="0%" text-anchor="start">
-                MAYBE IN THE NEXT LIFE &nbsp;•&nbsp; MAYBE IN THE NEXT LIFE &nbsp;•&nbsp; MAYBE IN THE NEXT LIFE &nbsp;•&nbsp;
+                &nbsp;•&nbsp; MAYBE IN THE NEXT LIFE &nbsp;•&nbsp; MAYBE NEVER SEE YOU &nbsp;•&nbsp; MAYBE IN THE NEXT LIFE &nbsp;•&nbsp; MAYBE NEVER SEE YOU &nbsp;•&nbsp; MAYBE IN THE NEXT LIFE &nbsp;•&nbsp; MAYBE NEVER SEE YOU &nbsp;•&nbsp;
               </textPath>
             </text>
           </svg>
@@ -425,7 +425,7 @@
             </defs>
             <text>
               <textPath href="#circlePath4" startOffset="0%" text-anchor="start">
-                MAYBE IN THE NEXT LIFE &nbsp;•&nbsp; MAYBE IN THE NEXT LIFE &nbsp;•&nbsp; MAYBE IN THE NEXT LIFE &nbsp;•&nbsp;
+                &nbsp;•&nbsp; MAYBE IN THE NEXT LIFE &nbsp;•&nbsp; MAYBE NEVER SEE YOU &nbsp;•&nbsp; MAYBE IN THE NEXT LIFE &nbsp;•&nbsp; MAYBE NEVER SEE YOU &nbsp;•&nbsp; MAYBE IN THE NEXT LIFE &nbsp;•&nbsp; MAYBE NEVER SEE YOU &nbsp;•&nbsp;
               </textPath>
             </text>
           </svg>
